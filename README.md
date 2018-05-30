@@ -2,7 +2,7 @@
 
 
 # myclassifier.py 
-It contains the implementation of k nearest neighbour classifier on iris data set
+It contains the implementation of k nearest neighbour classifier with implementation of fit and predict functions without importing it directly from library. 
 
 # randomclassifier.py
 It contains the implementation of classifier which predicts the output randomly 
